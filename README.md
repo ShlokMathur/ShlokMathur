@@ -1,11 +1,1 @@
-### Hi there 👋
-
-<!--
-**ShlokMathur/ShlokMathur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-i am a student if vit bhopal
-currently studying in first year 
-i am from cse core branch
-i want to persue in administrative jobs after my graduation
-i have interest in musuic
+Hi there My self Shlok Mathur. Beginner in Coding and always ready learn. I have the basic knowledge of C++, Python and very samll amount of Kotlin. Always ready to learn new coding language. Try to spend more time in problem solving to improve myself. I have trird many small project in python and c++.
